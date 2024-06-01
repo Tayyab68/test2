@@ -1,0 +1,5 @@
+***** Date: 22/04/2024 *****
+
+--> Updated Files <--
+app\Models\GlobalFunction.php
+app\Http\Controllers\SettingsController.php
